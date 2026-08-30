@@ -12,15 +12,14 @@ Entra ID.
 - Windows 11
 <h2>Joiner</h2>
 <p>
-<img width="1919" height="628" alt="image"
-src="https://github.com/user-attachments/assets/608b84c3-7759-4cd1-be2e-fc14d98a658b" />
-</p>
+<img width="1680" height="1050" alt="Screenshot 2026-08-30 at 6 21 47 PM" src="https://github.com/user-attachments/assets/119c2491-61f0-4c07-932c-5cbb6702cd72" />
+
 <p>
 </p>
 <br />
 User's that have Joined organization.
 <h2>Mover</h2>
 <p>
-<img width="999" height="764" alt="image"
-src="https://github.com/user-attachments/assets/425ff6e0-6bf2-467a-9de5-7f9f6b64e188" />
+<img width="1680" height="1050" alt="Screenshot 2026-08-30 at 6 45 39 PM" src="https://github.com/user-attachments/assets/9c84c03f-187b-4b7a-bdb8-e6f47bee9ed4" />
+
 <p>
