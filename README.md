@@ -9,7 +9,9 @@ Entra ID.
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
 <h2>Operating Systems Used </h2>
-- Windows 11
+- MacOS - Primary operating system used
+
+- Windows 11 - Familiar with performing
 <h2>Joiner</h2>
 <p>
 <img width="1680" height="1050" alt="Screenshot 2026-08-30 at 6 21 47 PM" src="https://github.com/user-attachments/assets/119c2491-61f0-4c07-932c-5cbb6702cd72" />
